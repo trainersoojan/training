@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--soojansws-soojanstore",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/9f9b6a1b-a9e6-42d9-a897-2c6b87048d07/resourceGroups/soojanINDIA/providers/Microsoft.Storage/storageAccounts/soojanstore",
+		"groupId": "dfs"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--soojansws",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/9f9b6a1b-a9e6-42d9-a897-2c6b87048d07/resourceGroups/soojanINDIA/providers/Microsoft.Synapse/workspaces/soojansws",
+		"groupId": "sql",
+		"fqdns": [
+			"soojansws.56bad8ed-151e-4253-b329-452317b8d387.sql.azuresynapse.net"
+		]
+	}
+}
